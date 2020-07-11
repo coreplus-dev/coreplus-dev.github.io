@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ぎじゅつめも</title>
-    <link>http://coreplus-dev.github.io/</link>
+    <link>https://coreplus-dev.github.io/</link>
     <description>Recent content on ぎじゅつめも</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
     
-	<atom:link href="http://coreplus-dev.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://coreplus-dev.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
